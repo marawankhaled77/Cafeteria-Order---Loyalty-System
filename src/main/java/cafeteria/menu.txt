@@ -1,0 +1,8 @@
+D002;Fresh Lemonade;Refreshing citrus;28.0;Drink
+D001;Iced Coffee;Cold brew;35.0;Drink
+M003;Burger;Juicy beef burger;80.0;Main Course
+M002;Koshari Bowl;Classic Egyptian mix;55.0;Main Course
+S003;Brownie;Chocolate fudge;25.0;Snack
+M001;Chicken Shawarma;Grilled chicken wrap;75.0;Main Course
+S001;Chocolate Muffin;Freshly baked;20.0;Snack
+S002;Chips;Potato chips;13.0;Snack
